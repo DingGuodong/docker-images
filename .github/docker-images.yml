@@ -2,3 +2,6 @@ images:
   - image: "debian"
     tag: "latest"
     name: "debian"
+  - image: "ubuntu"
+    tag: "latest"
+    name: "ubuntu"
