@@ -1,0 +1,4 @@
+images:
+  - image: "debian"
+    tag: "latest"
+    name: "debian"
